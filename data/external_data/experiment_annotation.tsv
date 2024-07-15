@@ -1,0 +1,13 @@
+file	label	sample_name	condition	replicate
+C:\Users\yihsiao\Documents\workspace\LFQ\Ubiquitin\20160826_Fusion1_SA_XF_HeLa_Control_1.raw	Control_1	Control_1	Control	1
+C:\Users\yihsiao\Documents\workspace\LFQ\Ubiquitin\20160826_Fusion1_SA_XF_HeLa_Control_2.raw	Control_2	Control_2	Control	2
+C:\Users\yihsiao\Documents\workspace\LFQ\Ubiquitin\20160826_Fusion1_SA_XF_HeLa_Control_3.raw	Control_3	Control_3	Control	3
+C:\Users\yihsiao\Documents\workspace\LFQ\Ubiquitin\20160826_Fusion1_SA_XF_HeLa_His_Mono_1.raw	Ubi1_1	Ubi1_1	Ubi1	1
+C:\Users\yihsiao\Documents\workspace\LFQ\Ubiquitin\20160826_Fusion1_SA_XF_HeLa_His_Mono_2.raw	Ubi1_2	Ubi1_2	Ubi1	2
+C:\Users\yihsiao\Documents\workspace\LFQ\Ubiquitin\20160826_Fusion1_SA_XF_HeLa_His_Mono_3.raw	Ubi1_3	Ubi1_3	Ubi1	3
+C:\Users\yihsiao\Documents\workspace\LFQ\Ubiquitin\20160826_Fusion1_SA_XF_HeLa_His_4Ubi2_1.raw	Ubi4_1	Ubi4_1	Ubi4	1
+C:\Users\yihsiao\Documents\workspace\LFQ\Ubiquitin\20160826_Fusion1_SA_XF_HeLa_His_4Ubi2_2.raw	Ubi4_2	Ubi4_2	Ubi4	2
+C:\Users\yihsiao\Documents\workspace\LFQ\Ubiquitin\20160826_Fusion1_SA_XF_HeLa_His_4Ubi2_3.raw	Ubi4_3	Ubi4_3	Ubi4	3
+C:\Users\yihsiao\Documents\workspace\LFQ\Ubiquitin\20160826_Fusion1_SA_XF_HeLa_His_6Ubi_1.raw	Ubi6_1	Ubi6_1	Ubi6	1
+C:\Users\yihsiao\Documents\workspace\LFQ\Ubiquitin\20160826_Fusion1_SA_XF_HeLa_His_6Ubi_2.raw	Ubi6_2	Ubi6_2	Ubi6	2
+C:\Users\yihsiao\Documents\workspace\LFQ\Ubiquitin\20160826_Fusion1_SA_XF_HeLa_His_6Ubi_3.raw	Ubi6_3	Ubi6_3	Ubi6	3
